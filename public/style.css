@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('asset/pexels-kirtan-creative-7965284.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top:5%;
+}
+.btn{
+    padding: .4em 2em;
+}
+.form-group{
+    padding: 0 2em;;
+}
+.form-text{
+    font-size: 12px;
+    padding-left: 5px;
+}
+.sub{
+    font-size: 13px;
+
+}
+.container{
+    border-radius: 2px;
+    background: linear-gradient(90deg, rgba(170,231,160,1) 0%, rgba(179,215,189,1) 35%, rgba(170,231,160,1) 100%);
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
